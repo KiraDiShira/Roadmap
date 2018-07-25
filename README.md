@@ -6,4 +6,4 @@
 - [Getting started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
 - [Getting started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
 - [Rancher](https://rancher.com/)
-
+- https://rancher.com/building-super-fast-docker-cicd-pipeline-rancher-droneci/
