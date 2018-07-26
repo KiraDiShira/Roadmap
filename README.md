@@ -1,7 +1,6 @@
 # Roadmap
 
 - [Flutter](https://flutter.io/)
-
 - [Docker and containers: the big picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
 - [Getting started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
 - [Getting started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
