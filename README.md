@@ -8,6 +8,5 @@
 - [Rancher](https://rancher.com/)
 - https://rancher.com/building-super-fast-docker-cicd-pipeline-rancher-droneci/
 - https://app.pluralsight.com/player?course=deployment-pipeline-aspdotnet-core-docker&author=wes-mcclure&name=4d83eada-8dbb-41f1-9ed0-8f98550c4dc1&clip=0&mode=live
-
 - [Ocelot - ApiGateway](https://github.com/ThreeMammals/Ocelot)
 - [Consul - ServiceDiscovery](https://www.consul.io/downloads.html)
